@@ -1,0 +1,15 @@
+G:\Coding\C#projects\BattleAxe\BattleAxe\BattleAxe\bin\Release\net8.0\BattleAxe.exe
+G:\Coding\C#projects\BattleAxe\BattleAxe\BattleAxe\bin\Release\net8.0\BattleAxe.deps.json
+G:\Coding\C#projects\BattleAxe\BattleAxe\BattleAxe\bin\Release\net8.0\BattleAxe.runtimeconfig.json
+G:\Coding\C#projects\BattleAxe\BattleAxe\BattleAxe\bin\Release\net8.0\BattleAxe.dll
+G:\Coding\C#projects\BattleAxe\BattleAxe\BattleAxe\bin\Release\net8.0\BattleAxe.pdb
+G:\Coding\C#projects\BattleAxe\BattleAxe\BattleAxe\obj\Release\net8.0\BattleAxe.GeneratedMSBuildEditorConfig.editorconfig
+G:\Coding\C#projects\BattleAxe\BattleAxe\BattleAxe\obj\Release\net8.0\BattleAxe.AssemblyInfoInputs.cache
+G:\Coding\C#projects\BattleAxe\BattleAxe\BattleAxe\obj\Release\net8.0\BattleAxe.AssemblyInfo.cs
+G:\Coding\C#projects\BattleAxe\BattleAxe\BattleAxe\obj\Release\net8.0\BattleAxe.csproj.CoreCompileInputs.cache
+G:\Coding\C#projects\BattleAxe\BattleAxe\BattleAxe\obj\Release\net8.0\BattleAxe.sourcelink.json
+G:\Coding\C#projects\BattleAxe\BattleAxe\BattleAxe\obj\Release\net8.0\BattleAxe.dll
+G:\Coding\C#projects\BattleAxe\BattleAxe\BattleAxe\obj\Release\net8.0\refint\BattleAxe.dll
+G:\Coding\C#projects\BattleAxe\BattleAxe\BattleAxe\obj\Release\net8.0\BattleAxe.pdb
+G:\Coding\C#projects\BattleAxe\BattleAxe\BattleAxe\obj\Release\net8.0\BattleAxe.genruntimeconfig.cache
+G:\Coding\C#projects\BattleAxe\BattleAxe\BattleAxe\obj\Release\net8.0\ref\BattleAxe.dll
